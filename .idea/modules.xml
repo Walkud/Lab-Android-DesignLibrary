@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lab-Android-DesignLibrary.iml" filepath="$PROJECT_DIR$/Lab-Android-DesignLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignSupport.iml" filepath="$PROJECT_DIR$/DesignSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyDesignLib/StudyDesignLib.iml" filepath="$PROJECT_DIR$/StudyDesignLib/StudyDesignLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
     </modules>
   </component>
 </project>
